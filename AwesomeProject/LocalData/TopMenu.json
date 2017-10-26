@@ -1,0 +1,86 @@
+{
+  "data": [
+    [{
+      "title" : "美食",
+      "image" : "card"
+    },
+    {
+      "title" : "电影",
+      "image" : "card"
+    },
+    {
+      "title" : "酒店",
+      "image" : "card"
+    },
+    {
+      "title" : "休闲娱乐",
+      "image" : "card"
+    },
+    {
+      "title" : "外卖",
+      "image" : "card"
+    },
+    {
+      "title" : "自助餐",
+      "image" : "card"
+    },
+    {
+      "title" : "KTV",
+      "image" : "card"
+    },
+    {
+      "title" : "火车票机票",
+      "image" : "card"
+    },
+    {
+      "title" : "丽人",
+      "image" : "card"
+    },
+    {
+        "title" : "周边游",
+        "image" : "card"
+    }
+    ],
+    [
+    {
+      "title" : "足疗按摩",
+      "image" : "card"
+    },
+    {
+      "title" : "购物",
+      "image" : "card"
+    },
+    {
+      "title" : "今日新单",
+      "image" : "card"
+    },
+    {
+      "title" : "小吃快餐",
+      "image" : "card"
+    },
+    {
+      "title" : "生活服务",
+      "image" : "card"
+    },
+      {
+        "title" : "甜点饮品",
+        "image" : "card"
+      },
+    {
+      "title" : "美甲",
+      "image" : "card"
+    },
+    {
+      "title" : "景点门票",
+      "image" : "card"
+    },
+    {
+      "title" : "旅游",
+      "image" : "card"
+    },
+    {
+      "title" : "全部分类",
+      "image" : "card"
+    }]
+  ]
+}
